@@ -1,2 +1,8 @@
-
-/* Your CSS Code here. */
+p{
+textalign:"center";
+margin-top:"30px";
+margin-bottom:"30px";
+}
+h1{
+	text-align:"center";
+}
